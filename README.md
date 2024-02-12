@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srilekha-sikhinam
 - 👀 I’m interested in python, machine learning, data visualization and automation.
 - 🌱 I’m currently learning deep learning and machine learning algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cool machine learning projects, specially on image classification
 - 📫 How to reach me: Srilekha.sikhinam@gmail.com
 
 <!---
